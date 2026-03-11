@@ -19,12 +19,15 @@ I am a **Fullstack Developer** deeply rooted in the **JavaScript/TypeScript** ec
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Skills
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=TymPiwowar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Tymek Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TymPiwowar&layout=compact&theme=tokyonight&hide=csharp,c%23,java&langs_count=8" alt="Tymek Languages" height="170" />
 </p>
 
+### 🚀 Most Used Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,python,vite,nodejs,html,css,git&theme=dark" />
+</p>
 ---
 
 ### 🚀 Key Projects
