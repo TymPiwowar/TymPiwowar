@@ -21,8 +21,8 @@ I am a **Fullstack Developer** deeply rooted in the **JavaScript/TypeScript** ec
 
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=TymPiwowar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Tymek's GitHub Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TymPiwowar&layout=compact&theme=tokyonight&hide_border=true&hide=csharp,java" alt="Most Used Languages" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=TymPiwowar&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_buster=1" alt="Tymek's GitHub Stats" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TymPiwowar&layout=compact&theme=radical&hide_border=true&hide=csharp,java,html,css&cache_buster=1" alt="Most Used Languages" height="170" />
 </p>
 
 ---
