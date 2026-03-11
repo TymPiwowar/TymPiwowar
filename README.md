@@ -28,5 +28,5 @@ I am a **Fullstack Developer** deeply rooted in the **JavaScript/TypeScript** ec
 ---
 
 ### 📫 Connect with me
-* **LinkedIn:** [linkedin.com/in/your-profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/tymoteusz-piwowarski-148a08312/))
+* **LinkedIn:** https://www.linkedin.com/in/tymoteusz-piwowarski-148a08312/
 * **Email:** tymoteusz.piwowarski@gmail.com
