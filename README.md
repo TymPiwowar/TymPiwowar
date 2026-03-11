@@ -20,14 +20,6 @@ I am a **Fullstack Developer** deeply rooted in the **JavaScript/TypeScript** ec
 ---
 
 
-
-### 🚀 Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,python,vite,nodejs,html,css,git&theme=dark" />
-</p>
-
----
-
 ### 🚀 Key Projects
 * **[bizon](https://github.com/swift-soft/bizon)** – A complex TypeScript-driven project.
 * **[commerz-widget](https://github.com/marcianoo21/commerz-widget)** – Developed for Collabothon 2024.
